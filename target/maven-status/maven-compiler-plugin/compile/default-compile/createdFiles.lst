@@ -1,11 +1,11 @@
 com/example/demo/entity/Product.class
-com/example/demo/service/UserDetailsServiceImpl.class
 com/example/demo/config/WebSecurityConfig.class
+com/example/demo/service/UserDetailsServiceImpl.class
 com/example/demo/model/OrderDetailInfo.class
 com/example/demo/model/CustomerInfo.class
 com/example/demo/SpringShoppingCart2Application.class
-com/example/demo/validator/CustomerFormValidator.class
 com/example/demo/controller/MainController.class
+com/example/demo/validator/CustomerFormValidator.class
 com/example/demo/dao/AccountDAO.class
 com/example/demo/utils/Utils.class
 com/example/demo/model/OrderInfo.class
